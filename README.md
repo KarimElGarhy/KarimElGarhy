@@ -28,6 +28,7 @@ Arabic/English bilingual sites with full **RTL** support are a regular part of t
 | Project | What it is | Stack |
 |---|---|---|
 | [**TMY Advisory**](https://github.com/KarimElGarhy/case-studies/tree/main/tmy-advisory) 🇦🇺 | Moved an Australian infrastructure firm's site from WordPress to a headless CMS without losing SEO | Next.js 16 · Payload CMS 3 · Postgres |
+| [**Otolink**](https://github.com/KarimElGarhy/case-studies/tree/main/otolink) 🇦🇪 | Site for a car-dealership SaaS. Marketing builds pages from 20+ CMS blocks | Next.js 16 · Strapi 5 · Framer Motion |
 | [**Dr. Hesham Al-Qassem**](https://github.com/KarimElGarhy/case-studies/tree/main/hqassim) | Arabic platform for an architect: events with booking, a blog in three formats, and user accounts | Next.js 16 · Strapi 5 · WordPress |
 | [**Abakera (العباقرة)**](https://github.com/KarimElGarhy/case-studies/tree/main/abakera) | Arabic trivia game on Google Play, graded on the server so answers can't be cheated | Kotlin · Compose · Next.js · Prisma |
 
